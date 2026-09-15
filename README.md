@@ -22,6 +22,10 @@ derived from real client work. Inside each:
 *Anonymized client data.* Data cleaning + business-question-driven analysis (churn, RFM) on e-commerce data.
 → [Go to project](./winery-ecommerce)
 
+### 📈 Channel Performance Analysis
+*Python data cleaning and transformation + Power BI analysis and dashboarding.* Goal: quantify the economic impact of each acquisition channel to identify where marketing spend is most efficient and where to optimize investment.
+→ [Go to project](./channel-performance-analysis)
+
 *More datasets in progress — updated regularly.*
 
 ## Tools
