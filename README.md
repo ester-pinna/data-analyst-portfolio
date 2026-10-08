@@ -26,6 +26,9 @@ derived from real client work. Inside each:
 *Python data cleaning and transformation + Power BI analysis and dashboarding.* Goal: quantify the economic impact of each acquisition channel to identify where marketing spend is most efficient and where to optimize investment.
 → [Go to project](./channel-performance-analysis)
 
+### 🔁 Repurchase Cycle Analysis
+*Python analysis of the repurchase cycle of a D2C e-commerce store, built in Databricks.* Goal: check if a fixed 210-day Win Back threshold matches how customers actually repurchase, and when inactive customers come back after a broadcast. → [Go to project](./repurchase-cycle)
+
 *More datasets in progress — updated regularly.*
 
 ## Tools
